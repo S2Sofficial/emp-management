@@ -1,22 +1,21 @@
 # emp-management
+: Employee Management project using Python
 
-# TABLE OF CONTENTS [ T O C ]
-|SER	|DESCRIPTION	|PAGE NO|
-|---:|:---:|:---|
-|01	|ACKNOWLEDGEMENT |04|
-|02	|INTRODUCTION	|05|
-|03	|OBJECTIVES OF THE PROJECT	|05|
-|04	|PROPOSED SYSTEM	|06|
-|05	|SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)	|07|
-|06	|PHASES OF SYSTEM DEVELOPMENT LIFE CYCLE	|08|
-|07	|FLOW CHART	|15|
-|08	|SOURCE CODE	|16|
-|09
- |OUTPUT     |19|
-|10	|INSTALLATION FILE	|20|
-|11	|TESTING 	|25|
-|12	|HARDWARE AND SOFTWARE REQUIREMENTS	|27|
-|13	|BIBLIOGRAPHY	|29|
+![img](https://www.azilen.com/_next/static/media/employee-management-system.d18ae2cd.png)
+
+## TABLE OF CONTENTS [ T O C ]
+| S.No. 	| DESCRIPTION                             	|
+|-------	|-----------------------------------------	|
+| 1     	| ACKNOWLEDGEMENT                         	|
+| 2     	| INTRODUCTION                            	|
+| 3     	| OBJECTIVES OF THE PROJECT               	|
+| 4     	| PROPOSED SYSTEM                         	|
+| 5     	| SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)    	|
+| 6     	| PHASES OF SYSTEM DEVELOPMENT LIFE CYCLE 	|
+| 7     	| FLOW CHART                              	|
+| 8     	| INSTALLATION FILE                       	|
+| 9     	| TESTING                                 	|
+| 10    	| HARDWARE AND SOFTWARE REQUIREMENTS      	|
 
 
 # PROJECT ON EMPLOYEE MANAGEMENT SYSTEM
