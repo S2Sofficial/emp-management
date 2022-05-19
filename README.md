@@ -17,6 +17,65 @@
 | 9     	| TESTING                                 	|
 | 10    	| HARDWARE AND SOFTWARE REQUIREMENTS      	|
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">S.No.</th>
+    <th class="tg-0pky">DESCRIPTION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">ACKNOWLEDGEMENT</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">INTRODUCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">OBJECTIVES OF THE PROJECT</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">PROPOSED SYSTEM</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">PHASES OF SYSTEM DEVELOPMENT LIFE CYCLE</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">FLOW CHART</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">INSTALLATION FILE</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">TESTING</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">HARDWARE AND SOFTWARE REQUIREMENTS</td>
+  </tr>
+</tbody>
+</table>
 
 # PROJECT ON EMPLOYEE MANAGEMENT SYSTEM
 
@@ -47,10 +106,6 @@ This prevents a lot of time and money. The work becomes fully automated and any 
 The systems development life cycle is a project management technique that divides complex projects into smaller, more easily managed segments or phases. Segmenting projects allows managers to verify the successful completion of project phases before allocating resources to subsequent phases.
 Software development projects typically include initiation, planning, design, development, testing, implementation, and maintenance phases. However, the phases may be divided differently depending on the organization involved. 
 For example, initial project activities might be designated as request, requirements-definition, and planning phases, or initiation, concept-development, and planning phases. End users of the system under development should be involved in reviewing the output of each phase to ensure the system is being built to deliver the needed functionality.
-
-
-
-
 
 ## PHASES OF SYSTEM DEVELOPMENT LIFE CYCLE
 
@@ -198,30 +253,14 @@ Two common forms of code coverage are:
 - 	 Statement Coverage: Which reports on the number of lines executed to complete the test.
 They both return coverage metric, measured as a percentage
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## HARDWARE AND SOFTWARE REQUIREMENTS
-
 
 |Sr No |Subject|values|
 
 |---|---|---|
 |I.    |OPERATING SYSTEM : |WINDOWS 7 AND ABOVE|
 |II.   |PROCESSOR: 	|PENTIUM(ANY) OR AMD ATHALON(3800+- 4200+ DUAL CORE)|
-|III.  |MOTHERBOARD:|1.845 OR 915,995 FOR PENTIUM 0R MSI 
-K9MM-V VIA K8M800+8237R PLUS CHIPSET FOR AMD ATHALON|
+|III.  |MOTHERBOARD:|1.845 OR 915,995 FOR PENTIUM 0R MSI K9MM-V VIA K8M800+8237R PLUS CHIPSET FOR AMD ATHALON|
 |IV.   |RAM:	|512 MB+|
 |V.    |Hard disk:	|SATA 40 GB OR ABOVE|
 |VI.   |CD/DVD r/w multi drive combo:| (If back up required)|
