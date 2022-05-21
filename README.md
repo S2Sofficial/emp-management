@@ -276,7 +276,7 @@ They both return coverage metric, measured as a percentage
 |II.	|Python|
 
 
-
+![](https://cdn3.iconfinder.com/data/icons/scenarium-vol-14/128/023-1024.png)
 
 
 
